@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+.likes{
+    background-color: aqua;
+    color: rgb(8, 8, 156);
+    text-decoration: underline;
+}
+.dislikes{
+    background-color: rgb(240, 145, 68);
+    color: rgb(61, 36, 6);
+    text-decoration: wavy;
+}
+#eat{
+    background-color: inherit;
+    color: initial;
+    text-transform: capitalize;
+}
+#sleep{
+    background-color: indianred;
+    color: white;
+    text-decoration: line-through;
+}
+#read{
+    background-color: bisque;
+    color: crimson;
+    text-shadow: 3px;
+}
+#travel{
+    background-color: inherit;
+    color: blanchedalmond;
+    text-rendering: geometricPrecision;
+}
+#design{
+    background-color: pink;
+    color: palevioletred;
+    text-transform: inherit;
+}
+#wash{
+    background-color: antiquewhite;
+    color: brown;
+    text-transform: capitalize;
+}
+#clean{
+    background-color: rgb(42, 5, 77);
+    color: violet;
+    text-transform: capitalize;
+}
+#run{
+    background-color: antiquewhite;
+    color: brown;
+    text-transform: capitalize;
+}
+#dance{
+    background-color: inherit;
+    color: red;
+    text-transform: capitalize;
+}
+#swim{
+    background-color: indigo;
+    color: initial;
+    text-transform: capitalize;
+}
